@@ -1,0 +1,12 @@
+C:\Users\redfi\Documents\POO\Projeto3Camadas\Projeto3Camadas\bin\Debug\Projeto3Camadas.exe.config
+C:\Users\redfi\Documents\POO\Projeto3Camadas\Projeto3Camadas\bin\Debug\Projeto3Camadas.exe
+C:\Users\redfi\Documents\POO\Projeto3Camadas\Projeto3Camadas\bin\Debug\Projeto3Camadas.pdb
+C:\Users\redfi\Documents\POO\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.csproj.AssemblyReference.cache
+C:\Users\redfi\Documents\POO\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.Properties.Resources.resources
+C:\Users\redfi\Documents\POO\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.csproj.GenerateResource.cache
+C:\Users\redfi\Documents\POO\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.csproj.CoreCompileInputs.cache
+C:\Users\redfi\Documents\POO\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.exe
+C:\Users\redfi\Documents\POO\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.pdb
+C:\Users\redfi\Documents\POO\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.Frm_Museu.resources
+C:\Users\redfi\Documents\POO\Projeto3Camadas\Projeto3Camadas\bin\Debug\MySql.Data.dll
+C:\Users\redfi\Documents\POO\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.csproj.CopyComplete
