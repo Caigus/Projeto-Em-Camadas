@@ -29,6 +29,7 @@ namespace Projeto3Camadas.Ui
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Frm_Login));
             this.lblEmail = new System.Windows.Forms.Label();
             this.lblSenha = new System.Windows.Forms.Label();
             this.txtEmail = new System.Windows.Forms.TextBox();
@@ -61,36 +62,43 @@ namespace Projeto3Camadas.Ui
             // 
             // txtEmail
             // 
+            this.txtEmail.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtEmail.Location = new System.Drawing.Point(451, 87);
             this.txtEmail.Name = "txtEmail";
-            this.txtEmail.Size = new System.Drawing.Size(257, 20);
+            this.txtEmail.Size = new System.Drawing.Size(270, 31);
             this.txtEmail.TabIndex = 2;
             // 
             // txtSenha
             // 
+            this.txtSenha.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtSenha.Location = new System.Drawing.Point(451, 156);
             this.txtSenha.Name = "txtSenha";
             this.txtSenha.PasswordChar = '*';
-            this.txtSenha.Size = new System.Drawing.Size(257, 20);
+            this.txtSenha.Size = new System.Drawing.Size(270, 31);
             this.txtSenha.TabIndex = 3;
             // 
             // pictureBox1
             // 
+            this.pictureBox1.BackgroundImage = global::Projeto3Camadas.Properties.Resources._891389;
+            this.pictureBox1.InitialImage = ((System.Drawing.Image)(resources.GetObject("pictureBox1.InitialImage")));
             this.pictureBox1.Location = new System.Drawing.Point(12, 12);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(404, 426);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
             this.pictureBox1.TabIndex = 4;
             this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // LnkLabEsqueceu
             // 
             this.LnkLabEsqueceu.AutoSize = true;
-            this.LnkLabEsqueceu.Location = new System.Drawing.Point(535, 309);
+            this.LnkLabEsqueceu.Location = new System.Drawing.Point(535, 288);
             this.LnkLabEsqueceu.Name = "LnkLabEsqueceu";
             this.LnkLabEsqueceu.Size = new System.Drawing.Size(111, 13);
             this.LnkLabEsqueceu.TabIndex = 5;
             this.LnkLabEsqueceu.TabStop = true;
             this.LnkLabEsqueceu.Text = "Esqueci minha senha ";
+            this.LnkLabEsqueceu.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.LnkLabEsqueceu_LinkClicked);
             // 
             // btnEntrar
             // 
