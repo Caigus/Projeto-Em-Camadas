@@ -10,3 +10,4 @@ C:\Users\redfi\Documents\POO\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3C
 C:\Users\redfi\Documents\POO\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.Frm_Museu.resources
 C:\Users\redfi\Documents\POO\Projeto3Camadas\Projeto3Camadas\bin\Debug\MySql.Data.dll
 C:\Users\redfi\Documents\POO\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.csproj.CopyComplete
+C:\Users\redfi\Documents\POO\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.Ui.Frm_Login.resources
